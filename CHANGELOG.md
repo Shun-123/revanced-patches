@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Shun-123/revanced-patches/compare/v1.0.0...v1.1.0) (2025-05-19)
+
+
+### Features
+
+* new patch for Prime Video on Firestick TV ([9116602](https://github.com/Shun-123/revanced-patches/commit/9116602503ff248d295d23516f770ffac300fae3))
+
 # 1.0.0 (2025-05-19)
 
 
