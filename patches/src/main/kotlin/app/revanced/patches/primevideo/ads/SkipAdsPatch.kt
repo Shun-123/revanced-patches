@@ -15,7 +15,7 @@ val skipAdsPatch = bytecodePatch(
     compatibleWith("com.amazon.avod")
 
     dependsOn(sharedExtensionPatch)
-
+    // I hope working well.
     // Skip all the logic in ServerInsertedAdBreakState.enter(), which plays all the ad clips in this
     // ad break. Instead, force the video player to seek over the entire break and reset the state machine.
     execute {
