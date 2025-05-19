@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Shun-123/revanced-patches/compare/v1.1.0...v1.1.1) (2025-05-19)
+
+
+### Bug Fixes
+
+* trigger release for testing ([9e1f8d4](https://github.com/Shun-123/revanced-patches/commit/9e1f8d4887da1558424dd39361e586f1b301d1ae))
+
 # [1.1.0](https://github.com/Shun-123/revanced-patches/compare/v1.0.0...v1.1.0) (2025-05-19)
 
 
