@@ -24,7 +24,7 @@
         ],
         "message": "chore: Release v${nextRelease.version} [skip ci]"
       }
-    ]
+    ],
     [
       "@saithodev/semantic-release-backmerge",
       {
