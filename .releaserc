@@ -29,7 +29,11 @@
     [
       "@semantic-release/github",
       {
-        "assets": []
+        "assets": [
+          {
+            "path": "patches/build/libs/patches-!(*sources*|*javadoc*).rvp?(.asc)"
+          }
+		]
       }
     ],
     [
