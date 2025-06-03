@@ -14,8 +14,6 @@
         ]
       }
     ],
-    "@semantic-release/release-notes-generator",
-    "@semantic-release/changelog",
     "gradle-semantic-release-plugin",
     [
       "@semantic-release/git",
@@ -24,20 +22,9 @@
           "CHANGELOG.md",
           "gradle.properties"
         ],
-        "message": "chore: Release v${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+        "message": "chore: Release v${nextRelease.version} [skip ci]"
       }
-    ],
-    [
-      "@semantic-release/github",
-      {
-        "assets": [
-          {
-            "path": "patches/build/libs/patches-!(*sources*|*javadoc*).rvp?(.asc)"
-          }
-        ],
-        "successComment": false
-      }
-    ],
+    ]
     [
       "@saithodev/semantic-release-backmerge",
       {
