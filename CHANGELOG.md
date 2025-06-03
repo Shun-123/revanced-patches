@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Shun-123/revanced-patches/compare/v1.0.0...v1.1.0) (2025-06-03)
+
+
+### Features
+
+* release ([48ba2cb](https://github.com/Shun-123/revanced-patches/commit/48ba2cbe4b900df931e043b7c8b9e1c164aa0909))
+
 # [5.25.0](https://github.com/ReVanced/revanced-patches/compare/v5.24.0...v5.25.0) (2025-05-29)
 
 
